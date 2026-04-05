@@ -1,0 +1,2 @@
+SCRIPTS/*.db
+SCRIPTS/dados_duckdb.db*
